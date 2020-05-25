@@ -1,0 +1,54 @@
+Question 1
+which of the following is a comment in Python?
+Answer: # This is a test
+
+
+Question 2
+What does the following code print out?
+    print("123" + "abc")
+Answer:123abc
+
+
+Question 3
+Which of the following is a bad Python variable name?
+Answer: 23spam
+
+
+Question 4
+Which of the following is not a Python reserved word?
+Answer:speed
+
+
+Question 5
+Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do?
+    x = x + 2
+Answer:Retrive the current value of x, add two to it and puts back the sum into x
+
+
+Question 6
+Which of the following elements of a mathematical expression in Python is evaluated first?
+Answer:Parentheses()
+
+
+Question 7
+What is the value of the following expression
+    42 % 10
+Hint - the "%" is the remainder operator
+Answer:2
+
+
+Question 8
+What will be the value of x after the following statement executes:
+    x = 1 + 2 * 3 - 8 / 4
+Answer:5.0
+
+
+Question 9
+What will be the value of x when the following statement is executed:
+    x = int(98.6)
+Answer:98
+
+
+Question 10
+What does the Python input() function do?
+Answer:Pauses the program and reads data from user
