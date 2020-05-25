@@ -1,0 +1,21 @@
+Question 1
+When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?
+Answer:
+
+
+Question 2
+What will the following program print out:
+    >>> x = 15
+    >>> x = x + 5
+    >>> print(x)
+Answer: 20
+
+
+Question 3
+Python scripts (files) have names that end with:
+Answer: .py
+
+
+Question 4
+
+Answer:
